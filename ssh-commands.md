@@ -7,7 +7,7 @@ More about SSH: https://www.ssh.com/ssh/protocol/
 1. To connect to a remote system using Ubuntu/Mac OS: https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server-in-ubuntu
 2. To connect to a remote system using windows: https://mediatemple.net/community/products/dv/204404604/using-ssh-in-putty-
 3. The username to be used to connect to the SSH server is your netid (all lowercase) and password
-4. The command would look like: `ssh csi402-sp19.arcc.albany.edu`
+4. The command would look like: `ssh NETID@csi402-sp19.arcc.albany.edu`
 5. The above command will prompt you to enter a password. Press the enter key once you’ve typed the password
       
      **IMPORTANT AFTER FIRST LOGIN**
