@@ -9,7 +9,8 @@ More about SSH: https://www.ssh.com/ssh/protocol/
 3. The username to be used to connect to the SSH server is your netid (all lowercase) and password
 4. The command would look like: `ssh csi402-sp19.arcc.albany.edu`
 5. The above command will prompt you to enter a password. Press the enter key once you’ve typed the password
-   **IMPORTANT AFTER FIRST LOGIN**
+      
+     **IMPORTANT AFTER FIRST LOGIN**
 6. run the following "/usr/local/bin/reskel" (without the quotes)
 7. Log out and log back in following the above steps
 8. Congrats you are in!
