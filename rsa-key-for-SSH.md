@@ -12,4 +12,5 @@ If everything was done correctly, using ssh user@server will not prompt you for 
 
 Anything that uses ssh for communication will work without entering the user account password when the correct key is loaded in the agent. Programs such as scp, sftp and rsync make use of this.   
 
-If you want to read more on this topic here is a wiki with more info  https://wiki.archlinux.org/index.php/SSH_keys 
+If you want to read more on this topic here is a wiki with more info  https://wiki.archlinux.org/index.php/SSH_keys
+If you want to set this up with GitHub see this link https://help.github.com/articles/connecting-to-github-with-ssh/ 
