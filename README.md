@@ -9,8 +9,8 @@
 
 [Text editors](text-editors.md)
 
-# course resources
-## server
+## course resources
+### server
 csi402-sp19.arcc.albany.edu
-## website
+### website
 [CSI 402: Systems Programming (Spring 2019)](http://www.cs.albany.edu/~amir/courses/csi402-s19/)
